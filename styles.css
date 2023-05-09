@@ -47,6 +47,11 @@ nav .logo {
   flex-basis: 100%;
   text-align: center;
 }
+.navitem { 
+  display: inline-flex;
+  align-items: center;
+  align-content: space-between;
+}
 nav a {
   color: white;
   text-decoration: none;
